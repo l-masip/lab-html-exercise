@@ -156,11 +156,12 @@ h1 {
 }
 
 #bring img {
-  height: 100px;
+  height: 150px;
 }
 
 #bring article {
   width: 800px;
+  text-align: center;
 }
 
 h2 {
